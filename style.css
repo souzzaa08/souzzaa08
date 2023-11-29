@@ -14,9 +14,10 @@ h1{
   font-size: x-large;
   color: aliceblue;
 
-  .moto{ 
-    height: 400px;
-    width: 200px;
   }
+
+  #moto {
+   width: 500px
+   height:400px ;
 
   }
